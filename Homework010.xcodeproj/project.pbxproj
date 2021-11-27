@@ -13,6 +13,7 @@
 		060268292751313A00E0CFD2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 060268272751313A00E0CFD2 /* Main.storyboard */; };
 		0602682B2751313C00E0CFD2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0602682A2751313C00E0CFD2 /* Assets.xcassets */; };
 		0602682E2751313C00E0CFD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0602682C2751313C00E0CFD2 /* LaunchScreen.storyboard */; };
+		0622EACA27520B2200B42AAF /* NoPasteText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0622EAC927520B2200B42AAF /* NoPasteText.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0602682A2751313C00E0CFD2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0602682D2751313C00E0CFD2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0602682F2751313C00E0CFD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0622EAC927520B2200B42AAF /* NoPasteText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoPasteText.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				060268212751313A00E0CFD2 /* AppDelegate.swift */,
 				060268232751313A00E0CFD2 /* SceneDelegate.swift */,
 				060268252751313A00E0CFD2 /* ViewController.swift */,
+				0622EAC927520B2200B42AAF /* NoPasteText.swift */,
 				060268272751313A00E0CFD2 /* Main.storyboard */,
 				0602682A2751313C00E0CFD2 /* Assets.xcassets */,
 				0602682C2751313C00E0CFD2 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				060268262751313A00E0CFD2 /* ViewController.swift in Sources */,
 				060268222751313A00E0CFD2 /* AppDelegate.swift in Sources */,
 				060268242751313A00E0CFD2 /* SceneDelegate.swift in Sources */,
+				0622EACA27520B2200B42AAF /* NoPasteText.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
